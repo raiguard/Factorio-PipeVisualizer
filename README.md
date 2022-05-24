@@ -1,3 +1,5 @@
+# THIS PROJECT HAS MOVED TO [SOURCEHUT](https://git.sr.ht/~raiguard/PipeVisualizer)
+
 # Pipe Visualizer
 
 Visualize the layout and fluids in Factorio pipe networks.
